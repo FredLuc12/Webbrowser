@@ -1,0 +1,11 @@
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\bin\Debug\WindowsFormsApp5_Webrowser.exe.config
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\bin\Debug\WindowsFormsApp5_Webrowser.exe
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\bin\Debug\WindowsFormsApp5_Webrowser.pdb
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\obj\Debug\WindowsFormsApp5_Webrowser.csproj.AssemblyReference.cache
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\obj\Debug\WindowsFormsApp5_Webrowser.csproj.SuggestedBindingRedirects.cache
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\obj\Debug\WindowsFormsApp5_Webrowser.Form1.resources
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\obj\Debug\WindowsFormsApp5_Webrowser.Properties.Resources.resources
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\obj\Debug\WindowsFormsApp5_Webrowser.csproj.GenerateResource.cache
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\obj\Debug\WindowsFormsApp5_Webrowser.csproj.CoreCompileInputs.cache
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\obj\Debug\WindowsFormsApp5_Webrowser.exe
+C:\Bts\WindowsFormsApp5_Webrowser\WindowsFormsApp5_Webrowser\obj\Debug\WindowsFormsApp5_Webrowser.pdb
